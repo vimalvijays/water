@@ -3,7 +3,7 @@ package com.water.water;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//spring main class testing second testing master
+//spring main class testing second testing master cherry
 @SpringBootApplication
 public class WaterApplication {
 
