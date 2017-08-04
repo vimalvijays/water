@@ -1,15 +1,12 @@
 
 package com.water.water;
 
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-<<<<<<< Temporary merge branch 1
-//spring main class testing second check slave
-=======
-//spring main class testing second testing master
->>>>>>> Temporary merge branch 2
-//cherry pick this line
 
+//spring main class testing second testing master
+//cherry pick
 @SpringBootApplication
 public class WaterApplication {
 
